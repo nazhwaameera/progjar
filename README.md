@@ -1,2 +1,2 @@
-# progjar-ETS
-Repositori ETS Pemrograman Jaringan kelas D
+# progjar
+Repositori Pemrograman Jaringan kelas D
